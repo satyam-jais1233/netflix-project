@@ -114,7 +114,7 @@ const Footer = () => {
           </select>
         </div>
         <h>Netflix india</h>
-        <h className="fw-light p-2">This page is protected by Google reCAPTCHA to ensure you're not a bot.</h>
+        <h className="fw-light p-2">This page is protected by Google reCAPTCHA to ensure you're not  bot.</h>
          <a href="#">Learn more.</a>
         </div>
       </div>
